@@ -1,6 +1,18 @@
 # Crypto-Push
-A decentralized application for transferring digital currency (ethereum).
-It also gives a list of transactions made.
+A decentralized application for transfering digital currency (ethereum).
+It also displays a list of latest transactions in the blockchain to the users.
+
+Tech Stack :
+- Alchemy
+- hardhat
+- Faucet
+- ReactJs
+- Tailwind CSS
+- HTML & JS
+Command to Run the Project :
+Please be Insured that all the dependencies are installed properly & then the Project is executed.
+
+npm run dev
 
 
 
